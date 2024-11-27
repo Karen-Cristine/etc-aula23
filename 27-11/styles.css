@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+.img {
+
+    padding: 1rem;
+    margin: 0.8rem;
+    background-color: #1a1a2e
+}
+
+.p {
+    margin: 1rem;
+}
+
+div {
+    margin: ;
+
+
+}
+
+.a {
+    height: 70vh;
+}
